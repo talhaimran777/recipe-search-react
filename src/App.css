@@ -1,0 +1,11 @@
+.card{
+    box-shadow: 7px 6px 6px rgba(0, 0, 0, 0.171);
+    z-index: 999;
+    border-radius: 25px;
+}
+
+.big-card{
+    background-color: rgb(107, 47, 59);
+    border-radius:105px !important;
+    box-shadow: 7px 6px 6px rgba(0, 0, 0, 0.568);
+}
